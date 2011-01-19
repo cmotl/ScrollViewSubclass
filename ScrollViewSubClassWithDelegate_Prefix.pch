@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'ScrollViewSubClassWithDelegate' target in the 'ScrollViewSubClassWithDelegate' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
